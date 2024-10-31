@@ -38,3 +38,47 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#git chatgtp 
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# IDE or editor specific files
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Temporary files
+tmp/
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Temporary files
+tmp/
+
+# IDE specific files
+.vscode/
+.idea/
+.DS_Store
+*.swp
